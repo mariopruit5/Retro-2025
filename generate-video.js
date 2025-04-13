@@ -5,7 +5,7 @@ export default async function handler(req, res) {
 
   const { prompt, aspect, style } = req.body;
 
-  const API_KEY = "sk-b6ab01e1bd34e012bf1708236e6b15be"; // Replace with your real key
+  const API_KEY = "YOUR_PIXVERSE_API_KEY"; // Replace with your real key
 
   try {
     const apiRes = await fetch("https://platform.pixverse.ai/api/v1/videos/generate", {
