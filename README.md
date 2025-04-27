@@ -1,8 +1,3 @@
-Here’s an even more emojified version of your movie review template for Retro (2025):
-
-
----
-
 "Retro" .2025. 🎬🔥 (𝖥𝗎𝗅𝗅 𝖬𝗈𝗏𝗂𝖾) 🎥 𝖠𝗏𝖺𝗂𝗅𝖺𝖻𝗅𝖾 𝖣𝗈𝗐𝗇𝗅𝗈𝖺𝖽 📥 𝟦𝟪𝟢𝗉, 𝟩𝟤𝟢𝗉 & 𝟣𝟢𝟪𝟢𝗉 𝖧𝖣
 
 "Retro (2025)" 🚀 is a mind-bending Indian sci-fi action thriller that’s about to blow your mind! Directed by K. K. Radhamohan, it’s packed with cutting-edge VFX and a star-studded cast. This movie will redefine the genre! 🌟
